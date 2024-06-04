@@ -19,6 +19,10 @@ BLIP-2
 ([query features](https://portland-my.sharepoint.com/:f:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/Eld8M0OEBy5Gh0cHbBBnb3AB-58cgdmWLcV3AaM4CzrCrg?e=u0quAi), 
 [frame-level features](https://portland-my.sharepoint.com/:u:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/Ec-4CM3MJ11NinAForKPgYsBso8beY1nTcdLhQo_8MO3vw?e=4TT2Du))
 
+Improved_ITV_features
+([query features] [frame-level features])
+
+
 ## **V3C1 dataset**
 
 1,082,649 video clips ([clip ids](https://github.com/jiaxinwoo/AVS_feature_data/blob/main/AVS_data/V3C1/VideoSets/v3c1.txt))
@@ -36,6 +40,10 @@ CLIP_ViT-B_32
 BLIP-2
 ([query features](https://portland-my.sharepoint.com/:f:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/Em1079DBfUdIqpBma9OzSCQBwsS5Oe__ZwUO4L2JPC2XUQ?e=GnCjXe), 
 [frame-level features](https://portland-my.sharepoint.com/:u:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EbzXeoA3ogBCrbwRRAKuWA4BAvSpzwtB_3MzDw10tEnsKQ?e=IbG8vF))
+
+
+Improved_ITV_features
+([query features] [frame-level features])
 
 ## **V3C2 dataset**
 
@@ -56,10 +64,13 @@ BLIP-2
 [frame-level features](https://portland-my.sharepoint.com/:u:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/Ecs7FejkKM5CufWDPqkQqhABI5lT1Noo1p__ehfyKAzYkw?e=zEbzQ3))
 
 
+Improved_ITV_features
+([query features] [frame-level features])
 ## Feature Extraction Projects
 
 * [CLIP](https://github.com/openai/CLIP)
 * [BLIP2](https://github.com/salesforce/LAVIS)
+* [Improved_ITV](https://github.com/nikkiwoo-gh/Improved-ITV)
 
 ## Citation
 If you found the data useful, please cite our paper as followed:
